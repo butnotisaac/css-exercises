@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 .abc {
     background-color: red; color: white; font-size: 32px; font-weight: bold; text-align: center;
 }
+=======
+
+.stepone { 
+     backround-color: red
+     text-color: white
+     font-size: 32px
+     font-weight: 700
+     text-align: center
+}
+>>>>>>> 04bc3ca679ea0c01a8bb526fdad1ff6fcfbf520a
